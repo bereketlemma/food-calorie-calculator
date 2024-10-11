@@ -1,0 +1,3 @@
+﻿flask
+pyjwt
+flask-cors
